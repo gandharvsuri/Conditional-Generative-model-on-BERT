@@ -1,4 +1,4 @@
-# BERT
+# BERT has a Mouth, and It Must Speak
 
 A conditional generative model on top of BERT. 
 
